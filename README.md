@@ -1,4 +1,4 @@
-# MaskGuide
+# MaskGuide 简单实现Android遮罩引导层
 1、使用方法
 </br>
   （1）在build.gradle文件中引入aar，aar在Releases中下载
