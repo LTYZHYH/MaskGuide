@@ -1,0 +1,3 @@
+rootProject.name = "MaskGuide"
+include ':app'
+include ':app:maskguide'
